@@ -1,0 +1,15 @@
+Back 356
+Beak 15
+Belly 483
+Breast 97
+Crown 25
+FHead 4
+LEye 17
+LLeg 162
+LWing 376
+Nape 69
+REye 22
+RLeg 427
+RWing 535
+Tail 44
+Throat 20

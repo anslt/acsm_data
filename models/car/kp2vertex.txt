@@ -1,0 +1,12 @@
+left_back_trunk 57
+right_back_wheel 253
+right_front_light 127
+right_front_wheel 132
+right_back_trunk 54
+left_back_wheel 410
+left_front_light 124
+left_front_wheel 131
+upper_left_rearwindow 216
+upper_right_windshield 570
+upper_right_rearwindow 176
+upper_left_windshield 422

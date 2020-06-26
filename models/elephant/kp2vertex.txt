@@ -1,0 +1,16 @@
+L_Eye	30
+R_Eye	34
+Nose	1
+L_EarBase	57
+R_EarBase	37
+Throat	49
+Withers	299
+TailBase	573
+L_F_Elbow	239
+R_F_Elbow	232
+L_B_Elbow	415
+R_B_Elbow	426
+L_F_Paw	144
+R_F_Paw	145
+L_B_Paw	506
+R_B_Paw	501
